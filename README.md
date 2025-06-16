@@ -11,5 +11,6 @@
 - 2024-AAAI-TF-CLIP: Learning Text-Free CLIP for Video-Based Person Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28500)
 - 2024-AAAI-Multi-Prompts Learning with Cross-Modal Alignment for Attribute-Based Person Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28524)
 - 2024-AAAI-Unifying Multi-Modal Uncertainty Modeling and Semantic Alignment for Text-to-Image Person Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28585)
+- 2024-NeurIPS-Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification[[paper]](https://papers.neurips.cc/paper_files/paper/2024/file/d7ae0d47fe6a8dfeb6a149be03ea89ce-Paper-Conference.pdf)
 - 2023-AAAI-CLIP-ReID: Exploiting Vision-Language Model for Image Re-identification without Concrete Text Labels[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225)
 - 2023-ICCV-Unified Pre-Training with Pseudo Texts for Text-To-Image Person Re-Identification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Unified_Pre-Training_with_Pseudo_Texts_for_Text-To-Image_Person_Re-Identification_ICCV_2023_paper.pdf)
